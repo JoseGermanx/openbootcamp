@@ -1,0 +1,12 @@
+{
+  "name": "primer-node",
+  "version": "1.0.0",
+  "description": "primera tarea de opon boot camp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose German Martinez",
+  "license": "ISC"
+}
