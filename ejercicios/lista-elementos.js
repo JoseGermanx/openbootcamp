@@ -1,10 +1,10 @@
 let lista = [
-  "Jose G Martinez",
-  40,
-  true,
-  new Date(Date(81, 07, 3)),
-  { titulo: "Arte de la Guerra", 
+  {nombre: "Jose G Martinez"},
+  {edad: 40},
+  {esDesarrollador: true},
+  new Date(Date.UTC(81, 07, 3)),
+  {libro: { titulo: "Arte de la Guerra", 
   autor: " Sun Tzu", 
-  fecha:1772, 
-  url: "http://www.amazon.com", },
+  fecha: 1772, 
+  url: "http://www.amazon.com", }}
 ];
